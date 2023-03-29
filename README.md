@@ -1,4 +1,4 @@
-### Olá! Sou João Victor, desenvolvedor Front-end com especialidade em React | HTML | CSS | JavaScript | Bootstrap | MySQL | Git | Github.
+### Olá! Sou João Victor, desenvolvedor Front-end com especialidade em React.js | HTML | CSS | JavaScript | Bootstrap | MySQL | Git | Github.
 
 - 🔭 Hoje sou estagiario na empresa NOVACAP, trabalhando como desenvolvedor frontend.
 
