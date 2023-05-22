@@ -1,6 +1,6 @@
 ### Olá! Sou João Victor, desenvolvedor Front-end com especialidade em HTML | CSS | JavaScript | React.js | Git | Github.
 
-- 🔭 Hoje sou estagiario na empresa NOVACAP, trabalhando como desenvolvedor frontend.
+- 🔭 Hoje sou estagiario na empresa NOVACAP desde (outubro de 2022), trabalhando como desenvolvedor frontend.
 
 <br>
 <br>
