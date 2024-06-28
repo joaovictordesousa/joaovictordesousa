@@ -1,7 +1,4 @@
-### Olá! Sou João Victor, desenvolvedor Full Stack com especialidade em HTML | CSS | JavaScript | React.js | PHP | Laravel | Git | Github | MySQL | PostgreSQL.
-
-
-- 🔭 Hoje sou estagiário na empresa NOVACAP desde (outubro de 2022), trabalhando como desenvolvedor Full Stack.
+### Olá! Sou João Victor, desenvolvedor Full Stack com especialidade em | PHP | Laravel | JavaScript | React.Js | HTML | CSS | Bootstrap | Git | Github | MySQL | PostgreSQL.
 
 <br>
 <br>
